@@ -1,0 +1,15 @@
+wrapper:
+  config_name: avia.yaml
+  lidar_topic: /livox/pointcloud
+  imu_topic: /livox/imu
+  lidar_type: 0
+
+front_end:
+  estrin:
+    qx: 0
+    qy: 0
+    qz: 0
+    qw: 1
+    tx: 0
+    ty: 0
+    tz: 0
